@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sam99eer
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on a MNC
 - 📫 samirsaini99@gmail.com
 
 <!---

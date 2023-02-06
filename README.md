@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sam99eer
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m a Full Stack and Mobile App Developer
 - 📫 samirsaini99@gmail.com
 
 <!---
